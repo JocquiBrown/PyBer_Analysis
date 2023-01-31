@@ -5,7 +5,8 @@
 
 ## Results
 ![Matplotlib_Challenge_Screenshot_3](https://user-images.githubusercontent.com/120291854/215643507-e98f41bd-56fa-44cc-9165-997d086294fc.png)
-![PyBer_fare_summary](https://user-images.githubusercontent.com/120291854/215643561-4747bc4a-29f6-4216-aef0-489bba56d29e.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/120291854/215658257-ae0c10a7-8455-4a52-90b5-6e3a4d93dd61.png)
+
 
 ### Total Rides Data
 - Based on the table above, we can see that most of the rides that PyBer provided occurred in urban cities, followed by suburban cities, and finally rural cities. In fact, there were about 13 times as many rides in urban cities and 5 times as many suburban rides than rural rides.
